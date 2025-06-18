@@ -1,3 +1,4 @@
+import streamlit as st
 import re
 
 # 🍽️ 食物成分库（每100g：热量（千卡）、碳水比例、蛋白质比例、脂肪比例）
